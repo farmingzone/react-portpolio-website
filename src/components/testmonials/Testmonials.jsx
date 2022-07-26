@@ -1,7 +1,7 @@
 import React from "react";
 import "./testmonials.css";
 const Testmonials = () => {
-  return <div>Testmonials</div>;
+  return <section id='testmonials'>Testmonials</section>;
 };
 
 export default Testmonials;
